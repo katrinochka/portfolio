@@ -29,5 +29,5 @@
 3. Qt/C++ проект с формами
 4. Тестовые данные и документацию
 
-Ссылка: Ссылка: https://github.com/katrinochka/portfolio/tree/main/DataBase
+Ссылка: https://github.com/katrinochka/portfolio/tree/main/DataBase
 
