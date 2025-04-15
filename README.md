@@ -18,3 +18,6 @@
 
 Ссылка: https://github.com/katrinochka/StanokStal-app
 
+Минимальный функционал в виде листинга услуг, поиска, перехода по страницам и подробного просмотра информации об услуге можно увидеть по ссылке ниже.
+
+Ссылка на github-pages с моками: https://katrinochka.github.io/StanokStal-app
