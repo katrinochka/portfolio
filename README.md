@@ -53,3 +53,9 @@
 
 Ссылка: https://github.com/katrinochka/portfolio/tree/main/NetworkSoftware
 
+### 9. Сети и телекоммуникации
+Включает лабораторные работы по курсу "Сети и телекоммуникации", которые содержат изучение DHCP, мониторинг сети с помощью утилит (ping, traceroute, mtr) и исследование DNS. В работах представлены настройки сетевых протоколов, анализ трафика, трассировка маршрутов и разрешение доменных имен.
+
+Ссылка: https://github.com/katrinochka/portfolio/tree/main/NetworksAndTelecommunications
+
+
